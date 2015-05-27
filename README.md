@@ -1,4 +1,5 @@
 **JAVASCRİPT NOTLARIM**
+
 Bu döküman temel seviyede JavaScript bilgisi kazanmak amacıyla oluşturduğum notlardan oluşmaktadır. JS'ye hızlıca başlangıç yapmak isteyenler için idealdir. Temel bilgiler detaya girmeden kısa ve öz şekilde sunulmaya çalışılmıştır.
 Herhangi bir programlama dilinde değişken tanımlama, döngüler, kontrol yapıları vb… gibi temel konuları bilmeniz bu dokümanı anlamanız için çok daha faydalı olacaktır. Eğer herhangi bir programlama bilginiz yoksa bu problem değil çünkü bu konular da kısa ve basit şekilde ele alındı.
 Bu dokümanda aşağıdaki konular yer almaktadır:
